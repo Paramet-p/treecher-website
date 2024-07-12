@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "material-table": "^1.69.3",
+    "react-hook-form": "^7.28.1"
+  }
+}
